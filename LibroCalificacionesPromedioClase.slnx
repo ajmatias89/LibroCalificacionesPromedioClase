@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../LibroCalificacionesPromedioClase2/LibroCalificacionesPromedioClase2/LibroCalificacionesPromedioClase2.csproj" />
   <Project Path="LibroCalificacionesPromedioClase/LibroCalificacionesPromedioClase.csproj" />
+  <Project Path="LibroCalificacionesPromedioClase2/LibroCalificacionesPromedioClase2/LibroCalificacionesPromedioClase2.csproj" />
 </Solution>
